@@ -1,2 +1,2 @@
 # hello-world
-hola world
+Hello World! I am Tyler Diggs, a Class of 2030 graduate here at North Carolina A&T State University. My favorite NBA team is the Memphis Grizzlies, and I love to watch basketball. I fell in love with computer programming when I was about 10 years old playing video games and doing hour of code in elementary school. I hope the NCAT teaches me to not only how to computer program, but to also give me public speaking skills.
